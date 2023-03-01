@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cv-builder/static/css/main.165a0c95.css",
+    "main.js": "/cv-builder/static/js/main.c53a8ddb.js",
+    "static/media/cat.jpg": "/cv-builder/static/media/cat.de825228ab5dd79850dc.jpg",
+    "static/media/profile.png": "/cv-builder/static/media/profile.2fda6558cd58b877e14f.png",
+    "index.html": "/cv-builder/index.html",
+    "main.165a0c95.css.map": "/cv-builder/static/css/main.165a0c95.css.map",
+    "main.c53a8ddb.js.map": "/cv-builder/static/js/main.c53a8ddb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.165a0c95.css",
+    "static/js/main.c53a8ddb.js"
+  ]
+}
